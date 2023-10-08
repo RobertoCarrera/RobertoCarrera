@@ -1,6 +1,6 @@
 # Roberto Carrera profile
-[![logo_gmail](/logo_gmail.png)](mailto:robertocarrera933@gmail.com)
-[![linkedin_logo](/linkedin_logo.webp)]([mailto:robertocarrera933@gmail.com](https://www.linkedin.com/in/roberto-carrera-santa-maria/))
+[![logo_gmail](/logo_gmail_50.png)](mailto:robertocarrera933@gmail.com)
+[![linkedin_logo](/linkedin_logo_50.webp)]([mailto:robertocarrera933@gmail.com](https://www.linkedin.com/in/roberto-carrera-santa-maria/))
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RobertoCarrera)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
