@@ -1,21 +1,7 @@
-# Roberto Carrera profile
-
-Soy Roberto, Programador de Aplicaciones Web Junior e Ingeniero DevOps Junior.
-Geek de nacimiento. Empecé desmontando mi PC con 16 años y, desde entonces, no he parado de descubrir diferentes ramas de la informática.
-Actualmente estoy estudiando: Prevención, análisis y respuesta a incidentes de seguridad y Planificación de la seguridad informática en la empresa.
-
-
-I am Roberto, Junior Web Application Programmer and Junior DevOps Engineer.
-[![trophy](https://github-profile-trophy.vercel.app/?username=RobertoCarrera)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![logo_gmail](/logo_gmail_50.png)](mailto:robertocarrera933@gmail.com)
-[![linkedin_logo](/linkedin_logo_50.png)]([mailto:robertocarrera933@gmail.com](https://www.linkedin.com/in/roberto-carrera-santa-maria/))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarrera)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center">Roberto Carrera's profile</h1>
 <p>Soy Roberto, Programador de Aplicaciones Web Junior e Ingeniero DevOps Junior. Geek de nacimiento. Empecé desmontando mi PC con 16 años y, desde entonces, no he parado de descubrir diferentes ramas de la informática. Actualmente estoy estudiando: Prevención, análisis y respuesta a incidentes de seguridad y Planificación de la seguridad informática en la empresa.</p>
-<h2 align="left">Frontend</h2>
-<p align="center"> 
+<h2>Frontend</h2>
+<p> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
@@ -29,8 +15,8 @@ I am Roberto, Junior Web Application Programmer and Junior DevOps Engineer.
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-<h2 align="left">Backend</h2>
-<p align="center"> 
+<h2>Backend</h2>
+<p> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
@@ -47,8 +33,8 @@ I am Roberto, Junior Web Application Programmer and Junior DevOps Engineer.
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
 </p>
-<h2 align="left">DevOps</h2>
-<p align="center"> 
+<h2>DevOps</h2>
+<p> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
@@ -60,5 +46,17 @@ I am Roberto, Junior Web Application Programmer and Junior DevOps Engineer.
   </a> 
 </p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:robertocarrera933@gmail.com">
+    <img src="/logo_gmail_50.png" alt="logo_gmail"/>
+  </a>
+    <a href="[mailto:robertocarrera933@gmail.com](https://www.linkedin.com/in/roberto-carrera-santa-maria/)">
+    <img src="/linkedin_logo_50.png" alt="logo_linkedin"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RobertoCarrera"/>
+  </a>
 </p>
