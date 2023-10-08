@@ -1,5 +1,8 @@
-### Hi there 👋
+# Roberto Carrera profile
+[![logo_gmail](/logo_gmail.png)](mailto:robertocarrera933@gmail.com)
+[![linkedin_logo](/linkedin_logo.webp)]([mailto:robertocarrera933@gmail.com](https://www.linkedin.com/in/roberto-carrera-santa-maria/))
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RobertoCarrera)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **RobertoCarrera/RobertoCarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +13,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy Roberto, Programador de Aplicaciones Web Junior e Ingeniero DevOps Junior.
+Geek de nacimiento. Empecé desmontando mi PC con 16 años y, desde entonces, no he parado de descubrir diferentes ramas de la informática.
+Actualmente estoy estudiando: Prevención, análisis y respuesta a incidentes de seguridad y Planificación de la seguridad informática en la empresa.
+
+
+I am Roberto, Junior Web Application Programmer and Junior DevOps Engineer.
