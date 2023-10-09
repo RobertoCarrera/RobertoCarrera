@@ -59,7 +59,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:robertocarrera933@gmail.com">
+  <a href="mailto:robertocarrera93@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="logo_gmail" width="50"/>
   </a>
   &nbsp;
