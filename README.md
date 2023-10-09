@@ -65,7 +65,7 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  <a href="https://www.linkedin.com/in/roberto-carrera-santa-maria/">
+  <a href="https://www.linkedin.com/in/roberto-carrera-santa-maria/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="logo_linkedin" width="50"/>
   </a>
 </p>
