@@ -1,7 +1,13 @@
-<h1 align="center">Hola, soy Roberto Carrera 😄</h1>
-<p><strong>Programador de Aplicaciones Web Junior<strong> e <strong>Ingeniero DevOps Junior</strong>.</p>
+<h1 align="center">Hi, I am Roberto Carrera 🙂 </h1>
+<p><strong>Web Developer<strong> & <strong>DevOps Developer</strong>.</p>
+<p>Borned <strong>geek</strong>. I started disassembling my PC at the age of 16 and, since then, I have not stopped discovering different branches of computer science.</p>
+<p>Currently, studying: Prevention, analysis and response to security incidents and Planning of computer security in the company.</p>
+
+<h1 align="center">Hola, soy Roberto Carrera 🙂</h1>
+<p><strong>Desarollador de Aplicaciones Web Junior<strong> y <strong>Desarollador DevOps Junior</strong>.</p>
 <p><strong>Geek</strong> de nacimiento. Empecé desmontando mi PC con 16 años y, desde entonces, no he parado de descubrir diferentes ramas de la informática. </p>
 <p>Actualmente estoy estudiando: Prevención, análisis y respuesta a incidentes de seguridad y Planificación de la seguridad informática en la empresa.</p>
+
 <h2>Frontend</h2>
 <p> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
