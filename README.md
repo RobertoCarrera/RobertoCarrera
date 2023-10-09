@@ -7,7 +7,11 @@
 <p><strong>Desarollador de Aplicaciones Web Junior<strong> y <strong>Desarollador DevOps Junior</strong>.</p>
 <p><strong>Geek</strong> de nacimiento. Empecé desmontando mi PC con 16 años y, desde entonces, no he parado de descubrir diferentes ramas de la informática. </p>
 <p>Actualmente estoy estudiando: Prevención, análisis y respuesta a incidentes de seguridad y Planificación de la seguridad informática en la empresa.</p>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RobertoCarrera"/>
+  </a>
+</p>
 <h2>Frontend</h2>
 <p> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -56,15 +60,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="mailto:robertocarrera933@gmail.com">
-    <img src="/logo_gmail_50.png" alt="logo_gmail"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="logo_gmail" width="50"/>
   </a>
-    <a href="[mailto:robertocarrera933@gmail.com](https://www.linkedin.com/in/roberto-carrera-santa-maria/)">
-    <img src="/linkedin_logo_50.png" alt="logo_linkedin"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RobertoCarrera"/>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a href="https://www.linkedin.com/in/roberto-carrera-santa-maria/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="logo_linkedin" width="50"/>
   </a>
 </p>
